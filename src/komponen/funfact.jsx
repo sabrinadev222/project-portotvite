@@ -13,7 +13,7 @@ export default function FunFact() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          <img src="/public/roblox.jpg" alt="Roblox-ku" className="roblox-image" />
+          <img src="/roblox.jpg" alt="Roblox-ku" className="roblox-image" />
         </a>
       </section>
     </div>

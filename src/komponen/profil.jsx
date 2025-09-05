@@ -12,7 +12,7 @@ export default function Profil() {
 
       <div className="container">
         <section className="profil">
-          <img src="/public/foto1.jpeg" alt="Foto Hilwana" className="hover-img" />
+          <img src="/foto1.jpeg" alt="Foto Hilwana" className="hover-img" />
           <ul>
             <li><strong>Nama Lengkap:</strong> Sabrina Vivia Hilwana Riyadi</li>
             <li><strong>Nama Panggilan:</strong> Hilwa</li>
